@@ -9616,7 +9616,7 @@
     "uk": "Увійти за допомогою Enterprise SSO"
   },
   "AUTH$SIGN_IN_WITH_IDENTITY_PROVIDER": {
-    "en": "Log in to OpenHands",
+    "en": "Log in to Aganthos",
     "ja": "IDプロバイダーでサインイン",
     "zh-CN": "使用您的身份提供商登录",
     "zh-TW": "使用您的身份提供商登入",
@@ -9629,7 +9629,7 @@
     "fr": "Connectez-vous avec votre fournisseur d'identité",
     "tr": "Kimlik sağlayıcınızla giriş yapın",
     "de": "Melden Sie sich mit Ihrem Identitätsanbieter an",
-    "uk": "Увійти до OpenHands"
+    "uk": "Увійти до Aganthos"
   },
   "WAITLIST$JOIN_WAITLIST": {
     "en": "Join Waitlist",
